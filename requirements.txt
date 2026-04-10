@@ -1,3 +1,5 @@
+
+# requirements.txt
 pandas
 tensorflow
 matplotlib
@@ -5,3 +7,8 @@ seaborn
 scikit-learn
 flask
 nltk
+pymsql
+cryptography
+torch
+transformers
+torchvision
